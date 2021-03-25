@@ -10,23 +10,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leogonzaga&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- <a href="https://pt-br.reactjs.org/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/javascript.png" alt="REACT" height="75" width="75" />
-  </a>
 
-  <a href="https://www.typescriptlang.org/pt/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/typescript.png" alt="REACT" height="75" width="75" />
-  </a>
 
-  <a href="https://sass-lang.com/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/node.png" alt="SASS" height="75" width="75" />
-  </a>
-    <a href="https://sass-lang.com/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/react.png" alt="SASS" height="75" width="75" />
-  </a>
-      <a href="https://sass-lang.com/" target="_blank">
       <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/figma.png" alt="SASS" height="75" width="75" />
-  </a>
   
 
 
