@@ -27,6 +27,8 @@
   <a> 
    <img align="center" src="https://github.com/gustavofbc/pixel_of_shields/blob/main/base/figma.png" alt="SASS" height="75" width="75" />
   </a>
+ 
+   ![Snake animation](https://github.com/LeoGonzaga/LeoGonzaga/blob/master/github-user-contribution.svg)
 </div>
 
 <!--
