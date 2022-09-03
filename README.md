@@ -1,7 +1,7 @@
 # 💫 Sobre mim:
 
 ### Olá! Eu sou o Léo!
-- Trabalho como desenvolvedor frontend e mobile. Totalmente focado na stack de Javascript, utilizando react, react-native e apaixonado por UI Design. 😄
+- Trabalho como desenvolvedor frontend e mobile. Totalmente focado na stack de Javascript, utilizando NextJS, react-native e apaixonado por UI Design. 😄
 
 ## 🌐Socials
  <a href="https://www.linkedin.com/in/l%C3%A9o-gonzaga-00b618150/"  target="_blank" >
